@@ -5,15 +5,15 @@ This repository contains the detailed report of a cybersecurity audit conducted 
 
 ## Scope
 The scope of the audit includes:
-●	Assess user permissions
-●	Identify existing controls, procedures, and system protocols
-●	Account for technology currently in use
+- Assess user permissions
+-	Identify existing controls, procedures, and system protocols
+-	Account for technology currently in use
 
 ## Goals
 The goals for the internal IT audit are:
-●	Adhere to the NIST Cybersecurity Framework (CSF)
-●	Establish policies and procedures to ensure compliance with regulations
-●	Fortify system controls
+-	Adhere to the NIST Cybersecurity Framework (CSF)
+-	Establish policies and procedures to ensure compliance with regulations
+-	Fortify system controls
 
 ## Methodology
 The audit was conducted using the following methodology:
@@ -27,8 +27,9 @@ The detailed findings of the audit are documented in the [Controls and complianc
 
 ## Recommendations
 Based on the findings, the following recommendations are provided:
-- [Recommendation 1](report/recommendations.md)
-- [Recommendation 2](report/recommendations.md)
+- Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
+
+- To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
 
 ## Conclusion
 The audit identified several areas of improvement. By addressing the recommendations, Botium Toys can enhance its cybersecurity posture.
