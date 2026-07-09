@@ -1,38 +1,42 @@
-# Cybersecurity Audit Report
+# Botium Toys: Cybersecurity Audit Report
 
 ## Introduction
-This repository contains the detailed report of a cybersecurity audit conducted on a fictional company named Botium Toys is a small U.S. business that develops and sells toys. The audit aims to identify security vulnerabilities and provide recommendations for improvement.
+This repository contains the detailed report of a cybersecurity audit conducted on a fictional company named Botium Toys, a small U.S. business that develops and sells toys. The audit aims to identify security vulnerabilities, evaluate existing controls, and provide recommendations to improve the organization's overall security posture.
+
+## Repository Structure
+* **`Audit-Scope-and-Goals.md`**: Outlines the audit's scope, goals, and initial risk assessment.
+* **`Control-categories.md`**: Defines the administrative, technical, and physical controls used as the baseline for this audit.
+* **`Controls-and-compliance-checklist.md`**: Contains the detailed findings of the audit, including existing controls, missing controls, and a compliance gap analysis.
 
 ## Scope
-The scope of the audit includes:
-- Assess user permissions
--	Identify existing controls, procedures, and system protocols
--	Account for technology currently in use
+The internal IT audit will assess the following:
+* Assess user permissions
+* Identify existing controls, procedures, and system protocols
+* Account for technology currently in use
 
 ## Goals
 The goals for the internal IT audit are:
--	Adhere to the NIST Cybersecurity Framework (CSF)
--	Establish policies and procedures to ensure compliance with regulations
--	Fortify system controls
+* Adhere to the NIST Cybersecurity Framework (CSF)
+* Establish policies and procedures to ensure compliance with regulations (GDPR, PCI DSS, SOC 1 & 2)
+* Fortify system controls
 
 ## Methodology
-The audit was conducted using the following methodology:
-1. Information Gathering
-2. Vulnerability Assessment
-3. Penetration Testing
-4. Analysis and Reporting
+The audit was conducted using the following internal IT audit methodology:
+1. **Information Gathering & Asset Inventory:** Identifying current employee equipment and internal network assets.
+2. **Controls Assessment:** Evaluating current administrative, technical, and physical controls against industry best practices.
+3. **Compliance Gap Analysis:** Reviewing current practices against GDPR, PCI DSS, and SOC Type 1/2 requirements.
+4. **Reporting and Recommendations:** Documenting findings and providing remediation plans to stakeholders.
 
 ## Findings
-The detailed findings of the audit are documented in the [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18987615/Controls.and.compliance.checklist.pdf).
+Currently, there is inadequate management of assets, and proper controls are not in place. The organization faces a high risk (Risk Score: 8/10) of lost assets or fines from governing bodies due to non-compliance with privacy regulations. The detailed checklist of these findings can be found in `Controls-and-compliance-checklist.md`.
 
 ## Recommendations
 Based on the findings, the following recommendations are provided:
-- Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
-
-- To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
+* **Implement Missing Controls:** Multiple controls need to be implemented to improve Botium Toys’ security posture, including: Least Privilege, disaster recovery plans, strong password policies, separation of duties, an Intrusion Detection System (IDS), ongoing legacy system management, encryption, and a password management system.
+* **Address Compliance Gaps:** To address gaps in GDPR, PCI DSS, and SOC compliance, the company must prioritize properly classifying its assets, utilizing data encryption, and restricting user access through separation of duties.
 
 ## Conclusion
-The audit identified several areas of improvement. By addressing the recommendations, Botium Toys can enhance its cybersecurity posture.
+The audit identified several areas of improvement. By addressing the recommendations and dedicating resources to asset management, Botium Toys can successfully fortify its cybersecurity posture and ensure business continuity.
 
 ## Contact
 For any questions or further information, please contact Sahasransu Brahma at sahasransucaptain@gmail.com.
