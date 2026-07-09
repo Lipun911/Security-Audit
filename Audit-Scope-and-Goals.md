@@ -1,4 +1,4 @@
-**Audit Scope and Goals**
+## **Audit Scope and Goals**
 
 **Summary:** The internal audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy to improve the security posture of the organization. The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
 
@@ -41,22 +41,22 @@ The likelihood of a lost asset or fines from governing bodies is high because th
 
 **Controls Assessment**
 
-| **Administrative Controls** | | | |
-| --- | --- | --- | --- |
-| **Control name** | **Control type and explanation** | **Needs to be implemented**  **(X)** | **Priority** |
-| Password policies | Preventative; establish password strength rules to improve security/reduce likelihood of account compromise through brute force or dictionary attack techniques | X | High |
+| **Administrative Controls** |                                                                                                                                                                 |                                                  |                    |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| **Control name**            | **Control type and explanation**                                                                                                                          | **Needs to be implemented**  **(X)** | **Priority** |
+| Password policies                 | Preventative; establish password strength rules to improve security/reduce likelihood of account compromise through brute force or dictionary attack techniques | X                                                | High               |
 
-| **Technical Controls** | | | |
-| --- | --- | --- | --- |
-| **Control Name** | **Control type and explanation** | **Needs to be implemented**  **(X)** | **Priority** |
-| Intrusion Detection System (IDS) | Detective; allows IT team to identify possible intrusions (i.e., anomalous traffic) quickly | X | HIgh |
-| Encryption | Deterrent; makes confidential information/data more secure (i.e., website payment transactions) | X | High/  Medium |
+| **Technical Controls**     |                                                                                                 |                                                  |                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| **Control Name**           | **Control type and explanation**                                                          | **Needs to be implemented**  **(X)** | **Priority** |
+| Intrusion Detection System (IDS) | Detective; allows IT team to identify possible intrusions (i.e., anomalous traffic) quickly     | X                                                | HIgh               |
+| Encryption                       | Deterrent; makes confidential information/data more secure (i.e., website payment transactions) | X                                                | High/  Medium      |
 
-| **Physical Controls** | | | |
-| --- | --- | --- | --- |
-| **Control Name** | **Control type and explanation** | **Needs to be implemented**  **(X)** | **Priority** |
-| Closed-circuit television (CCTV) surveillance | Preventative/detective; can reduce risk of certain events; can be used after event for investigation | X | High/  Medium |
-| Locks | Preventative; physical and digital assets are more secure | X | High |
+| **Physical Controls**                   |                                                                                                      |                                                  |                    |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| **Control Name**                        | **Control type and explanation**                                                               | **Needs to be implemented**  **(X)** | **Priority** |
+| Closed-circuit television (CCTV) surveillance | Preventative/detective; can reduce risk of certain events; can be used after event for investigation | X                                                | High/  Medium      |
+| Locks                                         | Preventative; physical and digital assets are more secure                                            | X                                                | High               |
 
 **Compliance Checklist**
 
